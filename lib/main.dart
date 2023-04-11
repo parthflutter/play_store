@@ -19,6 +19,7 @@ void main() {
         '/':(context) => Tabbar_first(),
           ' For_you_screen':(context) => For_you_screen(),
             'top_charts_screen':(context) => top_charts_screen(),
+
           }
       ),
     ),
